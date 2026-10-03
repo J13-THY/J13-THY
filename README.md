@@ -1,16 +1,16 @@
-# 👨‍💻 Joel | Software Developer • Networking • Cybersecurity
+#  Joel | Software Developer • Networking • Cybersecurity
 
 ```text
 Building systems. Connecting networks. Securing technology.
 ```
 
-## 👋 About Me
+##  About Me
 
 I'm an **IT & Computer Science enthusiast** focused on building practical, reliable and scalable technology solutions.
 
 My interests sit at the intersection of **Software Development, Computer Networking, Cybersecurity and AI Systems Integration**.
 
-I enjoy understanding how systems work from the ground up — from writing **C/C++ programs** and developing web applications to configuring **networks**, exploring **security concepts**, and integrating **AI into real-world software**.
+I enjoy understanding how systems work from the ground up — from writing **C/C++ programs** and developing web applications to configuring **networks**, exploring **security concepts** and integrating **AI into real-world software**.
 
 ```cpp
 class Developer {
@@ -30,16 +30,16 @@ public:
 
 ---
 
-## ⚡ Technology Stack
+##  Technology Stack
 
-### 💻 Programming
+###  Programming
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🌐 Web Development
+###  Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,14 +47,14 @@ public:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 
-### 🌐 Networking & Security
+###  Networking & Security
 
 ![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 
-### 🤖 AI & Development Tools
+###  AI & Development Tools
 
 ![AI](https://img.shields.io/badge/AI_Systems-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,7 +63,7 @@ public:
 
 ---
 
-## 🧠 Core Areas
+##  Core Areas
 
 ```text
 ┌──────────────────────────────────────────────┐
