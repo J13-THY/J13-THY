@@ -95,25 +95,25 @@ public:
 
 ---
 
-## 🚀 What I'm Building
+##  What I'm Building
 
 I enjoy turning ideas into systems that solve actual problems.
 
-**🎮 Web Platforms**  
+** Web Platforms**  
 Building interactive and scalable web applications using modern frontend and backend technologies.
 
-**🤖 AI-Powered Systems**  
+** AI-Powered Systems**  
 Exploring how AI can be integrated into applications to automate processes and create intelligent user experiences.
 
-**🌐 Network Solutions**  
+** Network Solutions**  
 Designing, configuring and troubleshooting network infrastructure while strengthening my understanding of network security.
 
-**⚙️ C/C++ Projects**  
+** C/C++ Projects**  
 Developing a deeper understanding of algorithms, data structures, graphics programming and low-level system concepts.
 
 ---
 
-## 🔐 Engineering Mindset
+##  Engineering Mindset
 
 > **Build it. Understand it. Break it. Secure it. Improve it.**
 
@@ -123,7 +123,7 @@ I want to understand **why it works**, how the different components communicate,
 
 ---
 
-## 📈 Currently Improving
+##  Currently Improving
 
 ```yaml
 learning:
@@ -150,7 +150,7 @@ learning:
 
 ---
 
-## 🛠️ Development Philosophy
+##  Development Philosophy
 
 ```text
 IDEA
@@ -179,7 +179,7 @@ LEARN → IMPROVE → REPEAT
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -189,7 +189,7 @@ LEARN → IMPROVE → REPEAT
 
 ---
 
-## 🐍 Contribution Activity
+##  Contribution Activity
 
 ![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
 
