@@ -1,7 +1,7 @@
 # Gumisiriza Joel
 <div align="right">
 
-### Software Developer · Networking · Cybersecurity
+### Software Developer | Networking | Cybersecurity
 
 **Building systems. Connecting networks. Securing technology.**
 
