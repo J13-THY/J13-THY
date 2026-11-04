@@ -8,12 +8,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="420" alt="Animated developer illustration" />
 
 </div>
-
-## About me
+<div align="left">
+  ## About me
 
 I'm an IT and Computer Science enthusiast focused on practical, reliable, and scalable technology. My interests bring together software development, computer networking, cybersecurity, and AI systems integration.
 
-I enjoy understanding technology from the ground up—from writing C/C++ programs and building web applications to configuring networks, exploring security, and integrating AI into useful software.
+I enjoy understanding technology from the ground up—from writing C/C++ programs and building web applications to configuring networks, exploring security, and integrating AI into useful software.  
+</div>
 
 ```cpp
 class Developer {
