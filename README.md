@@ -1,214 +1,110 @@
-#  Joel | Software Developer • Networking • Cybersecurity
+<div align="center">
 
-```text
-Building systems. Connecting networks. Securing technology.
-```
+# Joel
+### Software Developer · Networking · Cybersecurity
 
-##  About Me
+**Building systems. Connecting networks. Securing technology.**
 
-I'm an **IT & Computer Science enthusiast** focused on building practical, reliable and scalable technology solutions.
+<img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="420" alt="Animated developer illustration" />
 
-My interests sit at the intersection of **Software Development, Computer Networking, Cybersecurity and AI Systems Integration**.
+</div>
 
-I enjoy understanding how systems work from the ground up — from writing **C/C++ programs** and developing web applications to configuring **networks**, exploring **security concepts** and integrating **AI into real-world software**.
+## About me
+
+I'm an IT and Computer Science enthusiast focused on practical, reliable, and scalable technology. My interests bring together software development, computer networking, cybersecurity, and AI systems integration.
+
+I enjoy understanding technology from the ground up—from writing C/C++ programs and building web applications to configuring networks, exploring security, and integrating AI into useful software.
 
 ```cpp
 class Developer {
 public:
     string focus = "Building practical technology solutions";
-
     vector<string> interests = {
-        "Software Development",
-        "Computer Networking",
-        "Cybersecurity",
-        "AI Systems Integration"
+        "Software Development", "Computer Networking",
+        "Cybersecurity", "AI Systems Integration"
     };
-
     bool alwaysLearning = true;
 };
 ```
 
----
+## Technology toolkit
 
-##  Technology Stack
-
-###  Programming
-
+**Programming**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-###  Web Development
-
+**Web development**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-###  Networking & Security
-
+**Networking and security**  
 ![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 
-###  AI & Development Tools
-
+**AI and tools**  
 ![AI](https://img.shields.io/badge/AI_Systems-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+## What I work on
 
-##  Core Areas
+- **Software engineering:** C/C++, object-oriented programming, data structures, algorithms, and web applications.
+- **Networking:** TCP/IP, IP addressing, routing, switching, VLANs, and troubleshooting.
+- **Cybersecurity:** network and endpoint security, defensive practices, and secure system design.
+- **AI systems:** practical integrations, intelligent applications, and automation.
+
+## Currently learning
+
+- Advanced C++ and software architecture
+- Data structures and algorithms
+- Network design, routing, switching, and security
+- Defensive security and endpoint protection
+- AI-powered applications and intelligent automation
+
+## How I build
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   SOFTWARE ENGINEERING                      │
-│   ├── C / C++                               │
-│   ├── Object-Oriented Programming           │
-│   ├── Data Structures & Algorithms          │
-│   └── Web Application Development           │
-│                                              │
-│   NETWORK ENGINEERING                       │
-│   ├── TCP/IP & IP Addressing                │
-│   ├── Routing & Switching                   │
-│   ├── VLANs & Inter-VLAN Routing            │
-│   └── Network Troubleshooting               │
-│                                              │
-│   CYBERSECURITY                             │
-│   ├── Network Security                      │
-│   ├── Endpoint Security                     │
-│   └── Secure System Design                  │
-│                                              │
-│   ARTIFICIAL INTELLIGENCE                   │
-│   ├── AI System Integration                 │
-│   ├── Intelligent Applications              │
-│   └── Automation                            │
-│                                              │
-└──────────────────────────────────────────────┘
+IDEA → RESEARCH → DESIGN → BUILD → TEST → SECURE → DEPLOY
+                         ↑                         │
+                         └──── LEARN & IMPROVE ────┘
 ```
-
----
-
-##  What I'm Building
-
-I enjoy turning ideas into systems that solve actual problems.
-
-** Web Platforms**  
-Building interactive and scalable web applications using modern frontend and backend technologies.
-
-** AI-Powered Systems**  
-Exploring how AI can be integrated into applications to automate processes and create intelligent user experiences.
-
-** Network Solutions**  
-Designing, configuring and troubleshooting network infrastructure while strengthening my understanding of network security.
-
-** C/C++ Projects**  
-Developing a deeper understanding of algorithms, data structures, graphics programming and low-level system concepts.
-
----
-
-##  Engineering Mindset
 
 > **Build it. Understand it. Break it. Secure it. Improve it.**
 
-I don't just want to know *how* to use technology.
+I want to understand not only how technology is used, but why it works, how its parts communicate, where it can fail, and how it can be made better.
 
-I want to understand **why it works**, how the different components communicate, where systems can fail, and how they can be designed better.
+## GitHub activity
 
----
+Replace `YOUR_USERNAME` below with your GitHub username. The contribution animation also needs its GitHub Action workflow set up in your profile repository.
 
-##  Currently Improving
+<div align="center">
 
-```yaml
-learning:
-  software:
-    - Data Structures & Algorithms
-    - Advanced C++
-    - Software Architecture
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
-  networking:
-    - Routing & Switching
-    - Network Design
-    - Network Security
+![Contribution snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
 
-  cybersecurity:
-    - Defensive Security
-    - Endpoint Security
-    - Security Fundamentals
+</div>
 
-  artificial_intelligence:
-    - AI Systems Integration
-    - Intelligent Automation
-    - AI-powered Applications
-```
+## Let's connect
 
----
-
-##  Development Philosophy
-
-```text
-IDEA
- │
- ▼
-RESEARCH
- │
- ▼
-DESIGN
- │
- ▼
-BUILD
- │
- ▼
-TEST
- │
- ▼
-SECURE
- │
- ▼
-DEPLOY
- │
- ▼
-LEARN → IMPROVE → REPEAT
-```
-
----
-
-##  GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
----
-
-##  Contribution Activity
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 🌍 Let's Connect
-
-I'm interested in collaborating on projects involving:
-
-`Software Engineering` • `Networking` • `Cybersecurity` • `AI` • `Web Development` • `Automation`
-
-Feel free to explore my repositories and follow my journey as I continue building, learning and experimenting with technology.
-
----
+I'm interested in collaborating on software engineering, networking, cybersecurity, AI, web development, and automation. Explore my repositories and follow along as I keep building, learning, and experimenting.
 
 <div align="center">
 
 ### ⚡ Code. Connect. Secure. Innovate.
 
 **Building practical solutions, one system at a time.**
+
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="480" alt="Animated coding illustration" />
 
 </div>
