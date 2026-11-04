@@ -9,7 +9,7 @@
 
 </div>
 <div align="left">
-  ## About me
+## About me
 
 I'm an IT and Computer Science enthusiast focused on practical, reliable, and scalable technology. My interests bring together software development, computer networking, cybersecurity, and AI systems integration.
 
