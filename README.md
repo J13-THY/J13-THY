@@ -1,17 +1,18 @@
 <div align="right">
 
-# Joel
+ # G.Joel
 ### Software Developer · Networking · Cybersecurity
 
 </div>
-<table border=none>
+
+<table border="0" style="border: 0; border-collapse: collapse;">
   <tr>
-    <td width="65%" valign="middle">
+    <td width="65%" valign="middle" style="border: 0;">
       <h2>About me</h2>
       <p>I'm an IT and Computer Science enthusiast focused on practical, reliable, and scalable technology. My interests bring together software development, computer networking, cybersecurity, and AI systems integration.</p>
       <p>I enjoy understanding technology from the ground up—from writing C/C++ programs and building web applications to configuring networks, exploring security, and integrating AI into useful software.</p>
     </td>
-    <td width="35%" align="center" valign="middle">
+    <td width="35%" align="center" valign="middle" style="border: 0;">
       <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="220" alt="Animated developer illustration" />
     </td>
   </tr>
