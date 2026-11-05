@@ -1,7 +1,7 @@
 <div align="right">
 
 # G.Joel
-### Software Developer · Networking · Cybersecurity
+### Software Developer | Networking | Cybersecurity
 
 </div>
 
