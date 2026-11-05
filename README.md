@@ -6,7 +6,7 @@
 **Building systems. Connect networks. Securing technology.**
 
 </div>
-<table>
+<table border=0>
   <tr>
     <td width="65%" valign="middle">
       <h2>About me</h2>
