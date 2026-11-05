@@ -8,7 +8,7 @@
 <div>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="220" alt="Animated developer illustration" />
 
-  <h2>About me</h2>
+  <p><strong>About me</strong></p>
   <p>I'm an IT and Computer Science enthusiast focused on practical, reliable, and scalable technology. My interests bring together software development, computer networking, cybersecurity, and AI systems integration.</p>
   <p>I enjoy understanding technology from the ground up—from writing C/C++ programs and building web applications to configuring networks, exploring security, and integrating AI into useful software.</p>
 </div>
