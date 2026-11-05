@@ -1,12 +1,11 @@
-<div align="left">
+<div align="right">
 
 # Joel
 ### Software Developer · Networking · Cybersecurity
 
-**Building systems. Connecting networks. Securing technology.**
+**Building systems. Connect networks. Securing technology.**
 
 </div>
-
 <table>
   <tr>
     <td width="65%" valign="middle">
