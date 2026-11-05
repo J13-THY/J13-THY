@@ -1,20 +1,24 @@
-# Gumisiriza Joel
-<div align="right">
+<div align="center">
 
-### Software Developer | Networking | Cybersecurity
+# Joel
+### Software Developer · Networking · Cybersecurity
 
-**Building systems, Connect networks & Securing technology.**
-
-<img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="300" alt="Animated developer illustration" />
+**Building systems. Connecting networks. Securing technology.**
 
 </div>
-<div align="left">
-## About me
 
-I'm an IT and Computer Science enthusiast focused on practical, reliable, and scalable technology. My interests bring together software development, computer networking, cybersecurity, and AI systems integration.
-
-I enjoy understanding technology from the ground up—from writing C/C++ programs and building web applications to configuring networks, exploring security, and integrating AI into useful software.  
-</div>
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <h2>About me</h2>
+      <p>I'm an IT and Computer Science enthusiast focused on practical, reliable, and scalable technology. My interests bring together software development, computer networking, cybersecurity, and AI systems integration.</p>
+      <p>I enjoy understanding technology from the ground up—from writing C/C++ programs and building web applications to configuring networks, exploring security, and integrating AI into useful software.</p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="220" alt="Animated developer illustration" />
+    </td>
+  </tr>
+</table>
 
 ```cpp
 class Developer {
@@ -88,7 +92,7 @@ Replace `YOUR_USERNAME` below with your GitHub username. The contribution animat
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=J13-THY&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
@@ -106,6 +110,6 @@ I'm interested in collaborating on software engineering, networking, cybersecuri
 
 **Building practical solutions, one system at a time.**
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="480" alt="Animated coding illustration" />
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" alt="Animated coding illustration" />
 
 </div>
