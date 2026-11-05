@@ -3,8 +3,6 @@
 # Joel
 ### Software Developer · Networking · Cybersecurity
 
-**Building systems. Connect networks. Securing technology.**
-
 </div>
 <table border=none>
   <tr>
