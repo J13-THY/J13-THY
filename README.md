@@ -12,7 +12,8 @@
   <p>I'm an IT and Computer Science enthusiast focused on practical, reliable
     and scalable technology. My interests bring together software development, computer networking, cybersecurity
     and AI systems integration.</p>
-  <p>I enjoy understanding technology from the ground up—from writing C/C++ programs and building web applications to configuring networks, exploring security, and integrating AI into useful software.</p>
+  <p>I enjoy understanding technology from the ground up from writing C/C++ programs 
+    and building web applications to configuring networks, exploring security, and integrating AI into useful software.</p>
 </div>
 
 <br clear="right" />
