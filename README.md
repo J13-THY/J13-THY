@@ -1,6 +1,6 @@
 <div align="right">
 
- # G.Joel
+# G.Joel
 ### Software Developer · Networking · Cybersecurity
 
 </div>
@@ -9,8 +9,8 @@
   <img align="right" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="250" alt="Animated developer illustration" />
 
   <p><strong>About me</strong></p>
-  <p>I'm an IT and Computer Science enthusiast focused on practical, reliable and scalable technology. My interests bring together software development, computer networking, cybersecurity and AI systems integration.</p>
-  <p>I enjoy understanding technology from the ground up—from writing C/C++ programs and building web applications to configuring networks, exploring security and integrating AI into useful software.</p>
+  <p>I'm an IT and Computer Science enthusiast focused on practical, reliable, and scalable technology. My interests bring together software development, computer networking, cybersecurity, and AI systems integration.</p>
+  <p>I enjoy understanding technology from the ground up—from writing C/C++ programs and building web applications to configuring networks, exploring security, and integrating AI into useful software.</p>
 </div>
 
 <br clear="right" />
@@ -83,15 +83,17 @@ I want to understand not only how technology is used, but why it works, how its 
 
 ## GitHub activity
 
-Replace `YOUR_USERNAME` below with your GitHub username. The contribution animation also needs its GitHub Action workflow set up in your profile repository.
+These cards are configured for [`jkingzsensei`](https://github.com/jkingzsensei). The contribution snake needs its GitHub Action workflow enabled in your profile repository before it appears.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jkingzsensei&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkingzsensei&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=jkingzsensei&theme=tokyonight&hide_border=true)
 
-![Contribution snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=jkingzsensei&theme=tokyo-night&hide_border=true&area=true)
+
+![Contribution snake](https://raw.githubusercontent.com/jkingzsensei/jkingzsensei/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
