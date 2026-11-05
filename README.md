@@ -101,7 +101,7 @@ These cards are configured for [`J13-THY`](https://github.com/J13-THY). The cont
 
 ## Let's connect
 
-I'm interested in collaborating on software engineering, networking, cybersecurity, AI, web development, and automation. Explore my repositories and follow along as I keep building, learning, and experimenting.
+I'm interested in collaborating on software engineering, networking, cybersecurity, AI, web development and automation. Explore my repositories and follow along as I keep building, learning and experimenting.
 
 <div align="center">
 
